@@ -1,6 +1,6 @@
 # Careers website design 
 
-[link]180careers.bitballoon.com]
+http://180careers.bitballoon.com
 
 ![My image](http://i.imgur.com/7p2h73G.png)
 
