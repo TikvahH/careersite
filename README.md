@@ -3,5 +3,4 @@
 
 Link: 180careers.bitballoon.com
 
-
-http://www.gettyimages.ca/gi-resources/images/Homepage/Category-Creative/UK/UK_Creative_462809583.jpg
+![My image](username.github.com/repository/img/image.jpg)
