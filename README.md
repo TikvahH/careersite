@@ -3,4 +3,8 @@
 
 Link: 180careers.bitballoon.com
 
-![My image](https://pbs.twimg.com/profile_images/638772334476808192/uFt4gDJ2.jpg)
+![My image](http://i.imgur.com/7p2h73G.png)
+
+![My image](http://i.imgur.com/QdPQBHd.png)
+
+![My image](http://i.imgur.com/TkunNSr.png)
